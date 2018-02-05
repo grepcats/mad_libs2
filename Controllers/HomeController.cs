@@ -16,6 +16,11 @@ namespace MadLibs.Controllers
     {
       WordVariables wordVariable = new WordVariables();
       wordVariable.SetName(Request.Query["name"]);
+      wordVariable.SetAdverb(Request.Query["adverb"]);
+      wordVariable.SetNouns(Request.Query["nouns"]);
+      wordVariable.SetVehicle(Request.Query["vehicle"]);
+      wordVariable.SetAnimal(Request.Query["animal"]);
+      wordVariable.SetNouns2(Request.Query["nouns2"]);
       return View("mad_lib", wordVariable);
     }
   }
