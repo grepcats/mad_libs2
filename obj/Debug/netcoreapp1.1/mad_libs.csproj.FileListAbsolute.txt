@@ -1,9 +1,0 @@
-C:\Users\Kayla\Programming\csharp_w1\monday\mad_libs\bin\Debug\netcoreapp1.1\mad_libs.deps.json
-C:\Users\Kayla\Programming\csharp_w1\monday\mad_libs\bin\Debug\netcoreapp1.1\mad_libs.runtimeconfig.json
-C:\Users\Kayla\Programming\csharp_w1\monday\mad_libs\bin\Debug\netcoreapp1.1\mad_libs.runtimeconfig.dev.json
-C:\Users\Kayla\Programming\csharp_w1\monday\mad_libs\obj\Debug\netcoreapp1.1\mad_libs.csproj.CoreCompileInputs.cache
-C:\Users\Kayla\Programming\csharp_w1\monday\mad_libs\obj\Debug\netcoreapp1.1\mad_libs.AssemblyInfo.cs
-C:\Users\Kayla\Programming\csharp_w1\monday\mad_libs\bin\Debug\netcoreapp1.1\mad_libs.dll
-C:\Users\Kayla\Programming\csharp_w1\monday\mad_libs\bin\Debug\netcoreapp1.1\mad_libs.pdb
-C:\Users\Kayla\Programming\csharp_w1\monday\mad_libs\obj\Debug\netcoreapp1.1\mad_libs.dll
-C:\Users\Kayla\Programming\csharp_w1\monday\mad_libs\obj\Debug\netcoreapp1.1\mad_libs.pdb
